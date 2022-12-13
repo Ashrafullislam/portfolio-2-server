@@ -1,0 +1,155 @@
+[
+    {
+      "id": "63948e9895c71981d262cad2",
+      "category_id": "1",
+      "index": 0,
+      "photoURL": "https://i.ibb.co/3C2M7cn/Screenshot-20221210-072510.png",
+      "name": "Doctors Appointment",
+      "photo1":"https://i.ibb.co/Dpc6PQB/doc-appointment.png",
+      "photo2":" https://i.ibb.co/TbC2Z5s/doc-home-3.png",
+      "photo3":"https://i.ibb.co/Cwzkmdm/doc-home-2.png",
+      "photo4":"https://i.ibb.co/3vK6VQZ/das-users.png",
+      "photo5":"https://i.ibb.co/f2mvbCY/make-appoint.png",
+      "photo6":"https://i.ibb.co/60LqCjR/manage-doc.png",
+      "photo7":"https://i.ibb.co/2hrSH7B/my-appointment.png",
+
+      "client":"https://github.com/Ashrafullislam/doctors-portal",
+      "server":"https://github.com/Ashrafullislam/doctors_portal_server",
+      "details":{
+        "one":"Paitent Can booking his/her appoinment",
+        "two":" Paitent Can see available tickects of specific doctors",
+        "three": "Paitent can delete Appointment",
+        "four": " There is also a Deshboard",
+        "five": "Higher security for admin ",
+        "six":"Admin can controll user and add Doctors",
+        "seven":"Admin can manage doctors and Delete doctors"
+      },
+      "discription": " This projects make for doctors appoinment . Paitent can booking their appointment by select more option and by click calender ."
+    },
+
+    {
+      "id": "63948e98af53872af8f2d0d9",
+      "category_id": "2",
+      "index": 1,
+      "photoURL": "https://i.ibb.co/H4QQZN8/2022-12-10-20-32-29.png" ,
+      "name": "Computer Resell",
+       "photo1":"https://i.ibb.co/Ny2XtW7/cmt-home.png",
+       "photo2":"https://i.ibb.co/FwH5VrT/Screenshot-73.png ",
+       "photo3":"https://i.ibb.co/nw5bGpT/Screenshot-74.png",
+       "photo4":"https://i.ibb.co/Mp2ZcfN/Screenshot-75.png ",
+       "photo5":" https://i.ibb.co/F5Cd8ys/Screenshot-76.png",
+       "photo6":"https://i.ibb.co/n89YT1z/Screenshot-80.png ",
+       "photo7":"https://i.ibb.co/kX56c6R/Screenshot-81.png",
+      "details":{
+        "one":"Second Hand computer tablet resell",
+        "two":"Home page, Blog , Login and signup page ",
+        "three":"User can regisiter and verify ",
+        "four":"Deshboard is also here",
+        "five":"Admin can make another person admin",
+        "six":"Admin can handle all types of user ",
+        "seven":"Seller can add his/her own products for sell",
+        "eight":"Buyer can buy any products after login a valid email"
+      },
+      "liveUrl":"https://computer-resell.firebaseapp.com/",
+      "client":"https://github.com/Ashrafullislam/computer-reseller-client",
+      "server":"https://github.com/Ashrafullislam/computer-reseller-server",
+      "discription": "It is the second hand product resell website . Seller can add her  own products and advertise his/her product by openning seller account . User/Buyer can buy the  products from this website . Admin can handle users "
+    },
+
+    {
+      "id": "63948e98c6407dfaa67183a5",
+      "category_id": "3",
+      "index": 2,
+      "photoURL": "https://i.ibb.co/d6Jhfhr/2022-12-10-20-36-20.png" ,
+      "name": "Travels Zone",
+      "photo1":"https://i.ibb.co/xLZbvnW/trave-footer.png",
+      "photo2":"https://i.ibb.co/hVQXnJ7/travel-service.png ",
+      "photo3":"https://i.ibb.co/YNCbKN6/travel-zone-home.png",
+      "photo4":" https://i.ibb.co/LgbtTmc/travel-zone-c87fe-web-app-5.png",
+      "photo5":" https://i.ibb.co/MRhshc9/travel-zone-c87fe-web-app-6.png",
+      "details":{
+        "one":"Home , Blog , Signup and Log in page ",
+        "two":"Attractive Looks of home page ",
+         "three":"Dynamic website ",
+         "four":"user can register ",
+         "five":" User can booking their favorite place package",
+         "six":" Wonderfull places image and information ",
+         "seven":"Awesome animation use "
+         
+      },
+      "client":"https://github.com/Ashrafullislam/travels-review-client",
+      "server":"https://github.com/Ashrafullislam/travels-review-server",
+      "liveUrl": "https://travel-zone-c87fe.web.app/",
+      "discription": "Its the  travels-zone websites. Its make for traveller . Who can booking their favourite places hotel room and viehicles. And they are also find many wonderfull places with image and details ."
+    },
+    {
+      "id": "63948e986059df4448d00e7d",
+      "category_id": "4",
+      "index": 3,
+      "photoURL": "https://i.ibb.co/ZL6VntD/Screenshot-63.png",
+      "name": "Learn Programme ",
+      "photo1":"https://i.ibb.co/zNbjCvG/computer-science-learning-firebaseapp-com.png ",
+      "photo2":"https://i.ibb.co/4RtjSvk/computer-science-learning-firebaseapp-com-category-02-1.png ",
+      "photo3":"https://i.ibb.co/Rj29Nq3/computer-science-learning-firebaseapp-com-category-02.png ",
+      "photo4":" https://i.ibb.co/h1KGkyg/Screenshot-82.png",
+      "photo5":"https://i.ibb.co/HFn2sM5/Screenshot-84.png",   
+         "details":{
+        "one":"Programming Learning web",
+        "two":"Learner can Learn programme from here",
+        "three":"User can register with valid email",
+        "four":"Valid user can access premium course",
+        "five":"Home ,  Blog, Registe , Contact Page",
+        "six":"Single page dynamic web application",
+        "seven":"Many programming Language Knowledge also here"
+      },
+      "client":"https://github.com/Ashrafullislam/programming-learning-client",
+      "server":"https://github.com/Ashrafullislam/programming-learning-server",
+      "liveUrl": "https://computer-science-learning.firebaseapp.com/",
+      "discription": " Leaner can learn and practice their cooding knowledge about computer science . A begginer  programmer can see about many programming language structure and he can larn more  more  and more from this webpage ."
+    },
+    {
+      "id": "63948e983f607473342da170",
+      "category_id": "5",
+      "index": 4,
+      "photoURL": "https://i.ibb.co/jr3Qzvt/Screenshot-64.png",
+      "name": "Amazon Shpping ",
+      "photo1":"https://i.ibb.co/xLR33D3/Screenshot-85.png",
+      "photo2":" https://i.ibb.co/s1HvBYR/Screenshot-86.png",
+      "details":{
+        "one":"It is the online shoping Mart Web",
+        "two":" Dynamic React.js Projects ",
+        "three":"User can signup and able to buy products",
+        "four":"Shopping Cart also here ",
+        "five":" Calculate price, vat, shipping totals",
+        "six":"Wonderfull  products available ",
+        "seven":"Responsive Website "
+      },
+      "liveUrl": "https://amazon-shop-reactjs.netlify.app",
+      "client":"https://github.com/Ashrafullislam/amazon-shop",
+      "server":"/",
+      "discription": "Its the  online shooping mart like amazon . This website user friendly and customer can see many products and they can add products in shopping cart. "
+    },
+    {
+      "id": "63948e98ff0e3405499dddae",
+      "category_id": "6",
+      "index": 5,
+      "photoURL": "https://i.ibb.co/2ZbFmHK/Screenshot-65.png",
+      "name": "Hire best Player",
+      "photo1":"https://i.ibb.co/zRwrkrs/hired-five-best-player-netlify-app-1.png",
+      "photo2":"https://i.ibb.co/7nXshNG/hired-five-best-player-netlify-app.png",
+      "photo3":"https://i.ibb.co/zRwrkrs/hired-five-best-player-netlify-app-1.png",
+      "photo4":"https://i.ibb.co/jgxNGGb/Screenshot-90.png",
+      "details":{
+        "one":"Single Page Application",
+        "two":"It is Player hire webpage ",
+        "three":"User can find  his/her favourite player ",
+        "four":"Calculate per player cost and Coach cost",
+        "five":" Select Best Player with  Information",
+        "six":"Responsive and Dynamic web "
+      },
+      "client":"https://github.com/Ashrafullislam/find-best-five-player",
+      "server":"/ ",
+      "liveUrl": "https://hired-five-best-player.netlify.app",
+      "discription": " Any one can hire best football player and he / she can also calculate their budget .They can select footballer  and see their name and per head budget . "
+    }
+  ]
